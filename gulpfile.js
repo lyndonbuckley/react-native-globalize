@@ -23,7 +23,9 @@ const locales = [
   'de',           // German
   'el',           // Greek
   'en',           // English (United States)
+  'en-CA',        // English Caanda
   'en-GB',        // English (Great Britain)
+  'en-AU',
   'es',           // Spanish
   'es-419',       // Spanish (Latin America & Caribbean)
   'et',           // Estonian
@@ -61,9 +63,11 @@ const locales = [
   'ta',           // Tamil
   'te',           // Telugu
   'th',           // Thai
+  'th_TH',        // Thai
   'tr',           // Turkish
   'uk',           // Ukrainian
   'vi',           // Vietnamese
+  'vi-VN',        // Vietnamese
   'zh',           // Chinese
   'zh-Hans',      // Chinese (Simplified)
   'zh-Hant',      // Chinese (Traditional)
@@ -74,6 +78,10 @@ const currencies = [
   'EUR',          // Euro
   'GBP',          // British Pound
   'USD',          // US Dollar
+  'IDR',          // Indonesian Rupiah
+  'AUD',          // Australian dollar
+  'VND',          // Vietnamese dong,
+  'THB',          // Thai Baht
 ];
 
 const files = ['ca-gregorian', 'currencies', 'dateFields', 'numbers', 'timeZoneNames', 'units'];
