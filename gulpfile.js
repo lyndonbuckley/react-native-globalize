@@ -63,7 +63,7 @@ const locales = [
   'ta',           // Tamil
   'te',           // Telugu
   'th',           // Thai
-  'th_TH',        // Thai
+  'th-TH',        // Thai
   'tr',           // Turkish
   'uk',           // Ukrainian
   'vi',           // Vietnamese
